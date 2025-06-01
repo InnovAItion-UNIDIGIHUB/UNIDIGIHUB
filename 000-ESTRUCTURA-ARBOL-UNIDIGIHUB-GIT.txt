@@ -1,0 +1,56 @@
+UNIDIGIHUB/
+├── modelo_de_negocios/
+│   ├── modelo.md
+│   ├── documento 000.doc
+│   ├── requerimientos/
+│   │   ├── requerimientos_funcionales.doc
+│   │   ├── requerimientos_no_funcionales.doc
+│   │   └── requerimientos_tecnicos.doc
+│   ├── casos_de_uso/
+│   │   └── modelos
+│   └── modelo_del_dominio/
+│       └── diagrama000.drawio
+│
+├── analisis_requirementos/
+│   ├── modelos
+│   │   └── diagrama001.drawio
+│   │       ...
+│   ├── casos_de_uso/
+│   │   └── modelos
+│   ├── requerimientos_adicionales/
+│   │   └── requerimientos_adicionales.doc
+│   ├── glossario/
+│   │    └── glossario.doc
+│   └── prototipo/
+│       └── definicion_prototipo.txt
+│
+├── diseño/
+│   ├── modelo_de_diseño/
+│   │   ├── diagramas_clases/
+│   │   │   └── *.diagram
+│   │   ├── diagramas_secuencia/
+│   │   │   └── *.diagram
+│   │   └── diagramas_colaboracion/
+│   │       └── *.diagram
+│   ├── modelo_de_analisis/
+│   │   └── analisis_clases/
+│   │       └── *.txt
+│   ├── modelo_arquitectura/
+│   │   └── Arquitectura.doc
+│   │
+│   └── prototipo/
+│       └── caracteristicas.doc
+│
+├── implementacion_prototipo/
+│   ├── source_code/
+│   │   └── *.LENGUJE (or other programming language files)
+│   └── build_scripts/
+│       └── build.xml (or other build script files)
+└── pruebas/
+    ├── unidad_pruebas/
+    │   └── *.java (or other test files)
+    ├── prueba_integracion/
+    │   └── *.java (or other test files)
+    └── prueba_clases/
+        └── *.txt
+
